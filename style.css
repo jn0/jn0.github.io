@@ -11,5 +11,6 @@ a:hover { color: black; background-color: #ffa; }
 ul#etc { font-size: small; }
 hr { color: lime; }
 .tt { font-family: monospace; }
+.lh { list-style-type: none; }
 
 /* EOF */
