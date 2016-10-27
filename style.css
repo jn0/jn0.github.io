@@ -10,5 +10,6 @@ a { color: yellow; }
 a:hover { color: black; background-color: #ffa; }
 ul#etc { font-size: small; }
 hr { color: lime; }
+.tt { font-family: monospace; }
 
 /* EOF */
