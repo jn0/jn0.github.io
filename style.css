@@ -12,5 +12,6 @@ ul#etc { font-size: small; }
 hr { color: lime; }
 .tt { font-family: monospace; }
 .lh { list-style-type: none; }
+footer p { max-width: 88px; float: right; margin-left: 3px; }
 
 /* EOF */
