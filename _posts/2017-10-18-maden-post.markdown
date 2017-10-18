@@ -1,11 +1,15 @@
 ---
 published: true
 layout: post
-title: Maden Post
+title: Python Code I18N and L10N Notes
 ---
-# Maden Post
+# Python Code I18N and L10N Notes
 
-Test post of [tinypost.co](https://tinypress.co/new).
+- pygettext.py lives in python-tools in CentOS 7
+- In, say, intel-manager-for-lustre/cluster-sim/cluster_sim run  
+`pygettext.py -d cluster_sim -p locale/ -v -a *.py`  
+to make locale/cluster_sim.pot with strings denoted with `_(…)`.
+- Use :.,$s/\(['"]\{1,1\}\)[^'"]\+\1/_(&)/gc in vim
 
 <div id="disqus_thread"></div>
 <script>
