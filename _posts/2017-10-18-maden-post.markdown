@@ -7,13 +7,14 @@ title: Python Code I18N and L10N Notes
 
 - Use `:.,$s/\(['"]\{1,1\}\)[^'"]\+\1/_(&)/gc` in vim to find-n-destroy the strings.
 - `pygettext.py` lives in `python-tools` in CentOS 7
-- In, say, intel-manager-for-lustre/cluster-sim/cluster_sim run  
+- In, say, `intel-manager-for-lustre/cluster-sim/cluster_sim` run  
 `pygettext.py -d cluster_sim -p locale/ -v -a *.py`  
 to make `locale/cluster_sim.pot` with strings denoted with `_(…)`.
 - now `mkdir -p locale/ru/LC_MESSAGES && cp locale/cluster_sim.pot locale/ru/LC_MESSAGES/cluster_sim.po`
 - edit the `.po` file to add `msgstr` values to respective `msgid` entries (i.e. translate it)
 - run `msgfmt.py locale/ru/LC_MESSAGES/cluster_sim.po` to get `locale/ru/LC_MESSAGES/cluster_sim.mo`
 - setup your application [as described](https://docs.python.org/2/library/gettext.html)
+- (don't forget about [locale](https://docs.python.org/2/library/locale.html) setup!)
 - run something like `LANG=ru_RU python myapp.py` to see it in action
 - here you are!
 
