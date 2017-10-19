@@ -10,6 +10,7 @@ title: Python Code I18N and L10N Notes
 - In, say, `intel-manager-for-lustre/cluster-sim/cluster_sim` run  
 `pygettext.py -d cluster_sim -p locale/ -v -a *.py`  
 to make `locale/cluster_sim.pot` with strings denoted with `_(…)`.
+- edit the `locale/cluster_sim.pot` file to insert `cluster_sim` value as `Project-Id-Version` (and fill up other header fields)
 - now `mkdir -p locale/ru/LC_MESSAGES && cp locale/cluster_sim.pot locale/ru/LC_MESSAGES/cluster_sim.po`
 - edit the `.po` file to add `msgstr` values to respective `msgid` entries (i.e. translate it)
 - run `msgfmt.py locale/ru/LC_MESSAGES/cluster_sim.po` to get `locale/ru/LC_MESSAGES/cluster_sim.mo`
