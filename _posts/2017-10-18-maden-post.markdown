@@ -19,6 +19,18 @@ to make `locale/cluster_sim.pot` with strings denoted with `_(…)`.
 - run something like `LANG=ru_RU python myapp.py` to see it in action
 - here you are!
 
+# Sample module to illustrate i18n/l10n approach
+
+Use it as:
+```python
+from i18n import _
+```
+at the start of any source file being localized.
+
+<script src="https://gist.github.com/jn0/6b9d2661529f6a67ac62a6cbc66e8b65.js"></script>
+
+# Comments
+
 <div id="disqus_thread"></div>
 <script>
 
