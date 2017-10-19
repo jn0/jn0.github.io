@@ -5,6 +5,8 @@ title: Python Code I18N and L10N Notes
 ---
 # Python Code I18N and L10N Notes
 
+I was digging [IML](https://intel-hpdd.github.io/Online-Help/) when faced it...
+
 - Use `:.,$s/\(['"]\{1,1\}\)[^'"]\+\1/_(&)/gc` in vim to find-n-destroy the strings.
 - `pygettext.py` lives in `python-tools` in CentOS 7
 - In, say, `intel-manager-for-lustre/cluster-sim/cluster_sim` run  
