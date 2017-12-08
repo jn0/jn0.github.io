@@ -15,11 +15,11 @@
 [tb]: https://github.com/thingsboard
 [mq]: https://github.com/eclipse/mosquitto/
 [rk3188]: https://www.olimex.com/Products/SOM/RK3188/RK3188-SOM-EVB/ "Olimex RK3188-SOM-EVB"
-[rk3188im]: https://www.olimex.com/Products/SOM/RK3188/RK3188-SOM-EVB/images/rk3188-som-evb.PNG "Olimex RK3188-SOM-EVB"
+[rk3188im]: img/rk3188-som-evb.png "Olimex RK3188-SOM-EVB"
 [rk3188som]: https://www.olimex.com/wiki/RK3188-SOM "Olimex RK3188-SOM"
-[rk3188somim]: https://www.olimex.com/wiki/images/thumb/b/b6/Rk3188-som-resized.png/650px-Rk3188-som-resized.png "Olimex RK3188-SOM"
+[rk3188somim]: img/rk3188-som.png "Olimex RK3188-SOM"
 [lcd7ts]: https://www.olimex.com/Products/Retired/A13-LCD7-TS/open-source-hardware "Olimex MOD-LCD7-TS"
-[lcd7tsim]: https://www.olimex.com/Products/Retired/A13-LCD7-TS/images/A13-LCD7-TS-2.jpg "Olimex MOD-LCD7-TS"
+[lcd7tsim]: img/MOD-LCD7-TS.png "Olimex MOD-LCD7-TS"
 [linaro]: https://releases.linaro.org/debian/images/alip-armhf/ "linaro alip armhf"
 
 # EOF #
