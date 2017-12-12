@@ -6,14 +6,16 @@ by "RS Components":
 ## Some lyrics
 
 The RPi arrives as a DIY kit of the board and radiators which are to be glued to chips.
-![Delivered][i1]
 The chips must be degreased first.
+
+![Delivered][i1]
 
 Due to modern local regulations it's impossible for a private person to buy some
 pure alcohol here even for medical (w/o written prescription) or technical (I mean,
 not for nutrition at all) purposes. Hence, there are workarounds. One can buy (~$12
 for 0.2l) a [MAF Senor Cleaner][r2] spray instead, which is, in turn, almost pure
 ([0.76][r3] vs 0.786 g/cm³ @20°C, smells right) [isopropyl alcohol][r4] AKA isopropanol.
+
 ![Isopropanol][i3]
 
 ![Assembled][i2]
