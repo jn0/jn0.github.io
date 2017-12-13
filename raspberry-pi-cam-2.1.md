@@ -21,12 +21,12 @@
 
 ## Video Handling
 
-- `git clone [git://source.ffmpeg.org/ffmpeg.git](git://source.ffmpeg.org/ffmpeg.git)`
+- `git clone` [git://source.ffmpeg.org/ffmpeg.git](git://source.ffmpeg.org/ffmpeg.git)
   - `cd ffmpeg`
   - `./configure --arch=armel --target-os=linux --enable-gpl --enable-nonfree --enable-libx264 --enable-libmp3lame`
   - `make -j$(nproc)`
   - `sudo make install`
-- `git clone [git://git.videolan.org/x264](git://git.videolan.org/x264)`
+- `git clone` [git://git.videolan.org/x264](git://git.videolan.org/x264)
   - `cd x264`
   - `./configure --host=arm-unknown-linux-gnueabi --enable-static --disable-opencl`
   - `make -j$(nproc)`
