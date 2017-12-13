@@ -32,13 +32,13 @@
   - `make -j$(nproc)`
   - `sudo make install`
 - [HOWTO - Create a Raspberry Pi IP Camera with RTSP server](https://random-notes-of-a-sysadmin.blogspot.ru/2015/05/howto-create-raspberry-pi-ip-camera.html) using **live555** libs.
-  - Ends in `raspivid -t 0 -fps 30 -g 1 -b 2000000 -h 1920 -w 1080 -o - | ./testRaspi`.
   - grab and unpack http://www.live555.com/liveMedia/public/live555-latest.tar.gz
   - `sed -i 's/-D_FILE_OFFSET_BITS=64/& -DALLOW_RTSP_SERVER_PORT_REUSE=1/' ./config.linux && ./genMakefiles linux && make`
   - grab and unpack https://www.raspberrypi.org/forums/download/file.php?id=4285
   - `sed -i 's%\.\./%&live/%g' Makefile #` as it goes there :)
   - fix `OutPacketBuffer::maxSize` (yep, just add into the `main`) to something working...
   - `make` it
+  - Ends in `raspivid -t 0 -fps 30 -g 1 -b 2000000 -h 1920 -w 1080 -o - | ./testRaspi`.
 
 ## Assorted TFMs
 
