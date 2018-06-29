@@ -38,10 +38,11 @@ This works fine: `sudo /lib/nut/usbhid-ups -DDDD -a pcmbnt1200ap`
 
 But it doesn't work in whole :(
 
-- https://www.linux.org.ru/forum/linux-hardware/12903216
-- http://pcm.ru/support/soft/
-- https://www.pcm-ups.eu/en/software-app/
-- https://habr.com/post/246671/
-- http://www.muff.kiev.ua/content/nut-network-ups-tools
-- https://sites.google.com/site/plan0metr/home/nut
-
+- [config talks @LOR](https://www.linux.org.ru/forum/linux-hardware/12903216)
+- [config talks @habr](https://habr.com/post/246671/)
+- [config study](http://www.muff.kiev.ua/content/nut-network-ups-tools)
+- [The NUT](https://sites.google.com/site/plan0metr/home/nut)
+- [Photos of internals](https://imgur.com/a/iHTfS)
+- [PCM FAQ](http://pcm.ru/support/faq/)
+- [PCM Software 1](http://pcm.ru/support/soft/)
+- [PCM Software 2](https://www.pcm-ups.eu/en/software-app/)
