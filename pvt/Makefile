@@ -13,7 +13,7 @@ MARKDOWNS := $(wildcard *.md)
 all:	$(MARKDOWNS:.md=.pdf)
 
 view:	$(MARKDOWNS:.md=.pdf)
-	for pdf in $^; do evince $$pdf; done &
+	evince $^ &
 
 clean:
 	rm -f *.pdf
