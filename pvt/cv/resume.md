@@ -24,7 +24,10 @@ Application software: neural network setup/run on Tegra platform with image capt
 Advisory Software Engineer at Russian Systems and Technology Lab of IBM.
 
 - z/VM IP stack developer, z/VM SMAPI developer, z/VM SMAPI test.
+    - REXX, VS/Pascal, VS/C, Python, HLASM
+
 - z/Linux kdump/kvm/kernel developer, QEMU/s390x developer, libvirt developer, s390-tools developer (see [git.kernel.org](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?qt=grep&q=jno%40linux.vnet.ibm.com) and [git.qemu.org](http://git.qemu.org/?p=qemu.git&a=search&h=HEAD&st=commit&s=jno%40linux.vnet.ibm.com) for commits).
+    - C (GCC), Python, git, Perl
 
 ### January 1996 — October 2006 — Vympelkom, Moscow, www.beeline.ru
 
