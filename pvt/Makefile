@@ -35,31 +35,27 @@ UBUNTU_PACKAGES += ttf-mscorefonts-installer	# Georgia TTF
 %.pdf:	%.md
 	$(SED) -e 's/.md)/.pdf)/g' < $< | $(PANDOC) $(PANDOC_OPTIONS) --output=$@
 
-.PHONY:	clean all view install README.pdf
+.PHONY:	clean all view install
 
 MARKDOWNS := $(wildcard */*.md)
-PDFS := $(MARKDOWNS:.md=.pdf) README.pdf
+PDFS := $(MARKDOWNS:.md=.pdf)
 
 README.md:	$(MARKDOWNS)
 	echo "# Private Topics on $$(date '+%Y-%m-%d')" > "$@"; \
 	for md in $^;	\
 	do	t=$$(grep -m1 '^#\s\+' $$md | cut -c3-); \
-		d=$$(dirname $$md); \
-		n=$$(basename $$md .md); \
-		echo "- [$$t]($$d/$$n.pdf)"; \
+		echo "- [$$t]($$md)"; \
 	done >> "$@"; \
 	echo "# EOF #" >> "$@"
 
-README.pdf:	README.md
-	$(PANDOC) $(PANDOC_OPTIONS) --output=$@ $^
-
-all:	$(PDFS)
+README.pdf:	README.md $(PDFS)
+all:	README.pdf
 
 view:	$(PDFS)
 	$(PDFVIEW) $^ &
 
 clean:
-	$(RM) README.md *.pdf */*.pdf
+	$(RM) *.pdf */*.pdf
 
 install:
 ifeq ($(OS_TYPE),ubuntu)
