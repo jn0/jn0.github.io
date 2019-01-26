@@ -1,6 +1,7 @@
 # Рецепты
 - [Суп с мясными фрикадельками](sup-s-myasnymi-frikadelkami.md)
 - [Пшенная каша на молоке](pshennaja-kasha-na-moloke.md)
+- [Щи из свежей капусты (классический рецепт)](schi-iz-svezhey-kapusty.md)
 - [Пшённая каша](pshyonnaya-kasha.md)
 - [Борщ с фасолью и белыми грибами](borsch-s-fasolyu-i-belymi-gribami.md)
 - [Расписание РП 11/9](schedule.md)
