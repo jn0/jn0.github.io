@@ -5,6 +5,7 @@
 - [Щи из свежей капусты (классический рецепт)](schi-iz-svezhey-kapusty.md)
 - [Пшённая каша](pshyonnaya-kasha.md)
 - [Борщ с фасолью и белыми грибами](borsch-s-fasolyu-i-belymi-gribami.md)
+- [Ленивые голубцы](lenivye-golubtsy.md)
 - [Расписание РП 11/9](schedule.md)
 - [Оладьи с рикоттой и яблоками](oladi_s_rikottoi_i_yablokami.md)
 - [Суп с фрикадельками](sup-s-frikadelkami.md)
