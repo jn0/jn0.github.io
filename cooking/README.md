@@ -6,6 +6,7 @@
 - [Пшённая каша](pshyonnaya-kasha.md)
 - [Борщ с фасолью и белыми грибами](borsch-s-fasolyu-i-belymi-gribami.md)
 - [Ленивые голубцы](lenivye-golubtsy.md)
+- [хрустящие вафельные трубочки в элетровафельнице](vafelnye-trubochki-vafelnica.md)
 - [Расписание РП 11/9](schedule.md)
 - [Оладьи с рикоттой и яблоками](oladi_s_rikottoi_i_yablokami.md)
 - [Суп с фрикадельками](sup-s-frikadelkami.md)
