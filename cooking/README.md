@@ -2,6 +2,7 @@
 - [Суп с мясными фрикадельками](sup-s-myasnymi-frikadelkami.md)
 - [Пшенная каша на молоке](pshennaja-kasha-na-moloke.md)
 - [Салат из индейки с ананасами](salat-iz-indeyki-s-ananasami.md)
+- [Тонкие блины на молоке](tonkie-blini-na-moloke.md)
 - [Щи из свежей капусты (классический рецепт)](schi-iz-svezhey-kapusty.md)
 - [Пшённая каша](pshyonnaya-kasha.md)
 - [Борщ с фасолью и белыми грибами](borsch-s-fasolyu-i-belymi-gribami.md)
