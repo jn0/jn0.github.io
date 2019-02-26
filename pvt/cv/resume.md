@@ -6,6 +6,8 @@
     - Software Development
     - Engineer
     - Telecommunications
+    - Hardware controls
+    - Computer vision
 - Employment: full time
 - Work schedule: full day
 
@@ -41,11 +43,11 @@ Advisory Software Engineer at Russian Systems and Technology Lab of IBM.
 
 ## Key skills
 
-Linux, Python, Oracle Pl/SQL, C/C++, Git, SQL, Bash, HTML, CSS, KVM, Virtualization, Software Development, Storage
+Linux, Python, Oracle Pl/SQL, C/C++, Git, SQL, Bash, HTML, CSS, KVM, PELCO, 3GPP, Virtualization, Software Development, Storage
 
 ## Driving experience
 
-Driver's licence category B
+Driver's license category B
 
 ## About me
 
@@ -53,13 +55,13 @@ Please, see LinkedIn profile for detailed carrier listing - this version is simp
 
 ## Higher education
 
+Moscow Engineering Physics Institute (MEPhI)
+
 ### 1996
-Moscow, order of red banner of labor, engineering physics Institute (MEPhI), Moscow
 Faculty of Cybernetics, dept.22, postdoc
 
 ### 1989
-Moscow, order of red banner of labor, engineering physics Institute (MEPhI), Moscow
-Faculty of Cybernetics, dept.22, Software for Computers and Automated Systems
+Faculty of Cybernetics, dept.22, Kx-02A, Software for Computers, Computer Networks, and Automated Systems
 
 ## Languages
 
@@ -70,6 +72,6 @@ Faculty of Cybernetics, dept.22, Software for Computers and Automated Systems
 
 - Citizenship: Russia
 - Permission to work: Russia
-- Desired travel time to work: Doesn't matter much
+- Desired travel time to work: Doesn't matter *much*
 
 # EOF #
