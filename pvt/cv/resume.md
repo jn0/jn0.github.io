@@ -21,6 +21,10 @@ Infrastructure software development (storage control automation, hyperconvergent
 
 Application software: neural network setup/run on Tegra platform with image capture and preparation.
 
+Some level of Go programming language has been aquired.
+
+PostgreSQL and SQLite was used as backends in some projects.
+
 ### November 2006 — June 2016 — IBM EE/A RSTL, Moscow, www.ibm.com/ru
 
 Advisory Software Engineer at Russian Systems and Technology Lab of IBM.
