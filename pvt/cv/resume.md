@@ -13,7 +13,15 @@
 
 ## Work experience 20+ years
 
-### July 2016 — until now — Nekst, LLC, Moscow, inbase.io
+### January 2020 — until now — Rostelekom
+
+Senior software engineer.
+
+Government agencies support software.
+
+Python, PostgreSQL.
+
+### July 2016 — December 2019 — Nekst, LLC, Moscow, inbase.io
 
 Senior software engineer
 
