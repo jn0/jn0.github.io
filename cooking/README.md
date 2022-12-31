@@ -5,7 +5,6 @@
 - [Пшенная каша на молоке](pshennaja-kasha-na-moloke.md)
 - [Пшённая каша](pshyonnaya-kasha.md)
 - [Салат из индейки с ананасами](salat-iz-indeyki-s-ananasami.md)
-- [Расписание РП 11/9](schedule.md)
 - [Щи из свежей капусты (классический рецепт)](schi-iz-svezhey-kapusty.md)
 - [Солянка сборная мясная](solyanka-sbornaya-myasnaya.md)
 - [Суп с фрикадельками](sup-s-frikadelkami.md)
