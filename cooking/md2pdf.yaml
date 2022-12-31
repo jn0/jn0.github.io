@@ -1,0 +1,41 @@
+from: gfm+smart+hard_line_breaks
+# to: pdf
+output-file:
+input-files: []
+pdf-engine: xelatex
+# template: xelatex.tex
+standalone: true
+# smart: true
+wrap: "none"
+# normalize: true
+variables:
+  fontsize: 12pt
+  links-as-notes: yes
+  # lang: ru-RU
+  otherlang: gr
+  # fontenc:
+  # fontfamily: Serif
+  # fontfamilyoptions: []
+  # fontsize:
+  # mainfontoptions: []
+  # sansfontoptions: []
+  # monofontoptions: []
+  # mathfontoptions: []
+  colorlinks: true
+  toc: false
+  # mainfont: Georgia
+  # sansfont: Verdana
+  # monofont: Courier New
+  mainfont: PT Serif  # it has ₽, but no ρ
+  sansfont: PT Sans
+  monofont: PT Mono
+  # mathfont:
+  margin-left: 2.5cm
+  margin-right: 1.5cm
+  margin-top: 1.5cm
+  margin-bottom: 1.5cm
+  pagestyle: headings
+  papersize: a4
+filters: []
+verbosity: WARNING
+# EOF #
